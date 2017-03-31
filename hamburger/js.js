@@ -35,7 +35,7 @@ var reverseShades = ["#000000", "#0d0207", "#1a040f", "#270616", "#35081e", "#42
 
 var colorPallet = ['#85144b','#912b5d','#9d426e','#a95a81','#b57293','#c289a5','#cea1b7','#dab8c9','#e6d0db','#f2e7ed','#ffffff']
 var combo = reverseShades.concat(colorPallet)
-// var rainbow1 = rainbowBoxShadow('rainbow1', combo)
+var rainbow1 = rainbowBoxShadow('rainbow1', combo)
 
 
 var navyColors = [
@@ -61,7 +61,7 @@ var navyColors = [
 '#ccd2d8',
 '#e5e8eb',
 '#ffffff']
-// var rainbow2 = rainbowBoxShadow('rainbow2', navyColors)
+var rainbow2 = rainbowBoxShadow('rainbow2', navyColors)
 
 var tealColors=[
 '#7fdbff',
@@ -87,7 +87,7 @@ var tealColors=[
 '#f2fbff',
 '#ffffff'
 ]
-// var rainbow3 = rainbowBoxShadow('rainbow3', tealColors)
+var rainbow3 = rainbowBoxShadow('rainbow3', tealColors)
 
 
 
